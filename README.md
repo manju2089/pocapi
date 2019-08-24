@@ -1,6 +1,6 @@
-# rps
+# poc
 
-##  RPS application is used to plays moves and declares the result.
+##  This application is used to plot graph with data from h2 database using d3 js.
 
 * **A. Prerequisites**
    * 1. Windows/Linux based operating system
