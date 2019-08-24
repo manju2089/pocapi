@@ -18,6 +18,7 @@
     * 2. Then run the command 'mvn spring-boot:run'
     * 3. Access the applicationRequest by hitting the url to land on the game test page
 http://localhost:8080/generateReport?username=manju&password=manju
+    * Username and password are configurable in application.properties
 
 
 
